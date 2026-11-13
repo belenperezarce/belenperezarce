@@ -1,6 +1,11 @@
-## Hi there 👋
-
 <!--
+<h1>Hi, I'm Belén Pérez Arce!</h1>
+<h2>About me</h2>
+I'm María Belén Pérez Arce, I'm currently studing Web Development and Design although I specialize in video editing and have studied Animation Cinema and Postproduction.
+
+<h2>Softwares</h2>
+<h2>Hobbies</h2>
+
 **belenperezarce/belenperezarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
